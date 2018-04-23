@@ -1,1 +1,3 @@
-qbot queue https://learn.co/lessons/34522?batch_id=306&track_id=31303/&question_id=119497 Brittany Morris
+function logShout(string){
+  console.log(shout(string));
+}
